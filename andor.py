@@ -6,13 +6,18 @@ temperature = "cold"
 if weather == "sunny" and temperature == "warm" :
     print("Take t-shirt and sunglass.")
 
-# a = int(input("<Enter a number: "))
-# b = int(input("<Enter another number: "))
 
-# if (a > 10 and b > 10 ):
-#     print("both are greater than 10.")
-# else:
-#     print("atlest one of the number is less than 10.")
+
+
+#Guess if ur number is greater tha or les  than 10
+a = int(input("<Enter a number: "))
+b = int(input("<Enter another number: "))
+
+
+if (a > 10 and b > 10 ):
+     print("both are greater than 10.")
+else:
+     print("atlest one of the number is less than 10.")
 
 
 # weather = input("What is weather now : ")
