@@ -8,9 +8,11 @@
 
 
 
+
 #Guess if ur number is greater tha or les  than 10
 a = int(input("<Enter a number: "))
 b = int(input("<Enter another number: "))
+
 
 
 if (a > 10 and b > 10 ):
