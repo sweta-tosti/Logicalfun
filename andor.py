@@ -1,11 +1,10 @@
 
 
-weather = "sunny"
-temperature = "cold"
-
-if weather == "sunny" and temperature == "warm" :
-    print("Take t-shirt and sunglass.")
-
+# weather = "sunny"
+# temperature = "cold"
+#
+# if weather == "sunny" and temperature == "warm" :
+#     print("Take t-shirt and sunglass.")
 
 
 
